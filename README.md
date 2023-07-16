@@ -1,2 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us</title>
+  <style>
+    /* Add your custom CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #f2f2f2;
+      padding: 10px;
+      text-align: relative ;
+    }
+
+    h1 {
+      color: blue;
+    }
+
+    section {
+      margin: 30px 0;
+      padding: 0 20px;
+    }
+
+    h2 {
+      color: blue;
+    }
+
+    p {
+      color: #333;
+    }
+
+    .admin-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .admin-info img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      color: #ff0000;
+    }
+
+    .terms-link {
+      text-decoration: none;
+      color: blue;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <header style="background-image:url('https://i.ibb.co/GvpBHLH/i-Krrish-bg-admin.jpg')">
+    <h1>Welcome to "About Us"</h1>
+  </header>
+
+  <section>
+    <h2>Our Eyes</h2>
+    <p>At ikrrish.blogspot.com, we are dedicated to providing educational content in order to achieve our goal, to offer free education to all, especially the student community, as we believe in giving back and making education accessible to everyone.</p>
+    <p> With each post, I aim to provide valuable insights and information to help students expand their knowledge and excel in their long life.</p>
+  </section>
+
+  <section>
+    <h2>Accuracy and Updates</h2>
+    <p>It's important to note that the information provided on our site is based on the best of our knowledge and analysis. However, there is a possibility of inaccuracies. We strive to deliver 100% accurate content but recommend cross-checking the information for your satisfaction. We value accuracy and constantly work on improving our content.</p>
+  </section>
+
+  <section>
+    <h2>Privacy and Data Protection</h2>
+    <p>We take user privacy seriously and have implemented a privacy policy to safeguard your personal information. Our privacy policy outlines how we collect, use, and protect user data. For detailed information, please refer to our <a href="/p/privacy-policy.html"><u><b>Privacy Policy</b></u></a>.</p>
+  </section>
+  <section style="border:1px solid red;">
+    <details><summary><h2>&#10133; Admin Information</h2></summary>
+    <div class="admin-info">
+      <img src="https://i.ibb.co/3W6Y08m/IMG-20230516-091813-66-removebg-preview-1.png" alt="Krish-Photo-round it">
+      <h3>Krish (Admin)</h3>
+     <p><span style="font-family: Gill Sans, sans-serif;">"Hey there! I'm Krish, the administrator of this blog. I am a determined and resilient individual with a passion for civil engineering and information technology. Over time, I have gained expertise in structural analysis and have even learned coding in HTML and Python to expand my skill set. Alongside my studies, I run this blog as a way of giving back to the community and helping others. I believe that education should be accessible to all, regardless of their financial situation. I'm a quick learner and enjoy taking on new challenges, which is why I have developed skills in both civil engineering and information technology. I am excited about what the future holds and look forward to contributing my skills and knowledge to society."</span></p>
+      </div> 
+    </details>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>We value your input and suggestions. If you have any specific tutorial requests or topics you would like us to cover, please feel free to reach out to us via our <a href="/p/contact-us.html"><b><u>Contact</u></b> Us</a> page. While we cannot guarantee fulfilling all requests, we consider them when planning our content.</p>
+  </section>
+
+  <section>
+    <h2>Terms and Conditions</h2>
+    <p>We have outlined the terms and conditions for using the content on our site. To learn more, please refer to our <a href="/p/t-and-c.html" class="terms-link">Terms and Conditions</a> page.</p>
+  </section>
+</body>
+
+</html>
+
 # Web
 We will host my portfolio
