@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <base src="https://ikrrish.blogspot.com">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About Us</title>
